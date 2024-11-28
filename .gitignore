@@ -33,3 +33,6 @@ build
 dist
 *.egg
 *.egg-info
+
+# venv filse
+venv/*
